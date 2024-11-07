@@ -1,9 +1,10 @@
 ## 팀 개발을 위한 git github 시작하기 👋
 
-![image](https://github.com/user-attachments/assets/8dec1d36-c87d-4e83-b56d-d2e1f82977d6)
+![image](https://github.com/user-attachments/assets/3f119d1a-a1d0-46c6-8529-ce505c598bee)
+
 
 ### :octocat: 안녕하세요? 길종현입니다.
-**bold text**
+
 정용철=길종현
 
 - 🔭 지금 열심히 git 공부중이에요.
