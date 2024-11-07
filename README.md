@@ -1,11 +1,12 @@
-## Hi there 👋
+## 팀 개발을 위한 git github 시작하기 👋
 
-<!--
-**sun1174/sun1174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://github.com/user-attachments/assets/8dec1d36-c87d-4e83-b56d-d2e1f82977d6)
 
-Here are some ideas to get you started:
+### :octocat: 안녕하세요? 길종현입니다.
+**bold text**
+정용철=길종현
 
-- 🔭 I’m currently working on ...
+- 🔭 지금 열심히 git 공부중이에요.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
